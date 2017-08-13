@@ -1,2 +1,1 @@
-this is my first git project
-this is my second commit file for test the git
+this is my remote storaged projects directory
